@@ -1,0 +1,63 @@
+.body-class {
+    background-color: #DFDFDF;
+}
+
+.header-class {
+    background-color: #A1D0F9;
+    color: black;
+}
+
+.nav-link-class {
+    text-decoration: none;
+
+}
+
+.nav-class {
+    background-color: black;
+    color: white;
+
+}
+
+nav a {
+    color: white;
+
+}
+
+nav a:hover {
+    color: #FECB21;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.section-title-class {
+    color: #FE70F5;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: red;
+}
+
+.text-class {
+    color: #0108D4;
+}
+
+.image-class{
+    border: 4px solid
+    #A1D0F9;
+}
+
+.form-class{
+    color: #C40101;
+    font-weight: bold;
+}
+
+.button-class{
+    background-color: #A1D0F9;
+    border: none;
+    color: #0916CE;
+
+    cursor: pointer;
+}
+
+.footer-class {
+    background-color: #FEAA01;
+    color: black;
+}
